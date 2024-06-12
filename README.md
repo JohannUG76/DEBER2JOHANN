@@ -1,4 +1,3 @@
-![image](https://github.com/JohannUG76/DEBER2JOHANN/assets/169223501/f1262fff-9499-46a8-a318-4707908502b5)package application;
 
 import javafx.application.Application; import javafx.scene.Scene; import javafx.scene.control.*; import javafx.scene.layout.GridPane; import javafx.stage.Stage;
 
